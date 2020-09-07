@@ -1,4 +1,4 @@
-FROM mattrayner/lamp:latest-1804
+FROM gitpod/workspace-mysql
 
 # Install custom tools, runtimes, etc.
 # For example "bastet", a command-line tetris clone:
