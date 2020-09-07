@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full
+FROM mattrayner/lamp:latest-1804
 
 # Install custom tools, runtimes, etc.
 # For example "bastet", a command-line tetris clone:
